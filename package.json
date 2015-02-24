@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/tbfe/generator-uiaction",
   "dependencies": {
-    "chalk": "^0.5.1",
+    "chalk": "^1.0.0",
     "path": "^0.4.9",
     "yeoman-generator": "^0.18.4",
     "yosay": "^1.0.0"
